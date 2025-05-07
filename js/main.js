@@ -1,7 +1,7 @@
 function muda_cor() {
 
-    let body = document.getElementById("bg");
-    let flag = parseInt(Math.random() * 10) + 1;
+let body = document.getElementById("bg");
+let flag = parseInt(Math.random() * 10) + 1;
 
     switch (flag) {
         case 0:
