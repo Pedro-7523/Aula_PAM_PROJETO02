@@ -46,5 +46,5 @@ function muda_cor() {
 function fundoOriginal() {
     
     let body = document.getElementById("bg");
-    body.style.backroundColor = "#4B0082";
+    body.style.backgroundColor = "#4B0082";
 }
