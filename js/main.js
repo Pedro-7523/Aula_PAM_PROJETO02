@@ -65,7 +65,7 @@ function muda_cor_hex() {
     const hex = "0123456789ABCDEF";
     let cor = "#";
 
-    for (let i = 0; i < 0; i++) {
+    for (let i = 0; i < 6; i++) {
         cor += hex.charAt(Math.floor(Math.random() * hex.length));
     }
     body.style.backgroundColor = cor;
