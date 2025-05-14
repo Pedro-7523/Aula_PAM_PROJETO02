@@ -1,7 +1,7 @@
 {
     "name": "Projeto 02",
     "short_name": "PJ02",
-    "start_url": "./",
+    "start_url": "../index.html",
     "display": "standalone",
     "backgroud_color": "#fffff",
     "theme_color": "darkblue",
