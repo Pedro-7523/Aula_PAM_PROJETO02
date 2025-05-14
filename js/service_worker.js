@@ -1,7 +1,7 @@
 const CACHE_NAME = 'pwa-cache';
 const URL_TO_CODE = [
     '/',
-    'index.html',
+    '/index.html',
     '/css/estilo.css',
     '/js/app.js'
 ]
